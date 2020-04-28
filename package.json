@@ -1,0 +1,17 @@
+{
+  "name": "chat-room",
+  "version": "1.0.0",
+  "description": "A simple chat app",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Akshay Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
